@@ -22,7 +22,7 @@ public class SendingEmailWithAttachmentsUsingGmail {
 		// TODO Auto-generated method stub
 		String to = "dao_le_quan@hotmail.com";
 		String user="daolequan@gmail.com";
-		String password="kidd4ol3qu4nnu(3";
+		String password="**********";
 		// Properties file
 		Properties props = new Properties();
 		props.put("mail.smtp.host", "smtp.gmail.com");
