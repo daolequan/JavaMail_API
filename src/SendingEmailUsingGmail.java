@@ -16,7 +16,7 @@ public class SendingEmailUsingGmail {
 		prop.put("mail.smtp.auth", "true");
 		
 		final String user = "daolequan";
-		final String password = "kidd4ol3qu4nnu(3";
+		final String password = "********";
 		// 2. Session object
 		Session session = Session.getInstance(prop);
 		// 3. Message object 
