@@ -11,7 +11,7 @@ public class SendingEmailUsingHotmail {
 
 	public static void main(String[] args) {
 		final String user = "dao_le_quan@hotmail.com";
-		final String password ="14121990";
+		final String password ="***********";
 		// Properties file
 		Properties prop = new Properties();
 		prop.put("mail.smtp.auth", "true");
