@@ -64,7 +64,7 @@ public class ReceivingGmail {
 		String host="smtp.gmail.com";
 		String mailStoreType="pop3";
 		final String username="daolequan@gmail.com" ;
-		final String password="kidd4ol3qu4nnu(3";
+		final String password="******";
 		
 		receiveEmail(host, mailStoreType, username, password);
 	}
